@@ -3,6 +3,8 @@ def greeting
 end
 greeting
 
-local_greeting = hey 
+local_greeting = Hey 
 
 your_name = Holly
+my_name = Paige
+time_of_day = day 
