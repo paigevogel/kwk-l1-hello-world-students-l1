@@ -1,5 +1,5 @@
 def greeting
- local_greeting = Hey
+ local_greeting = Hi 
  your_name = Holly
  my_name = Paige
  time_of_day = Night
