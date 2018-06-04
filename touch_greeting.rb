@@ -5,6 +5,6 @@ local_greeting = Hey
 
 your_name = Holly
 my_name = Paige
-time_of_day = day 
+time_of_day = morning
 end 
 greeting
